@@ -22,7 +22,7 @@ public class starter extends JPanel implements MouseListener
 		Color a = new Color(0,255,0);
 		setBackground(a);
 		
-		xCoord=0;
+		xCoord=150;
 		rect = new Rectangle2D.Double(xCoord,100,50,50);
 		
 		frame.addMouseListener(this);
@@ -36,7 +36,7 @@ public class starter extends JPanel implements MouseListener
 		g2.setColor(Color.BLUE);
 		g2.fill(rect);
 		g.setColor(Color.BLACK);
-		g.drawString("Click to move rectangle",250,300);
+		g.drawString("Click to move rectangle",150,300);
 	}
 	
 	public void mouseClicked(MouseEvent e)
