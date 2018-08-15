@@ -4,5 +4,4 @@ by the user.
 CS Topics: String class, input/output, if statements, while loops
 
 API
-
 String class
