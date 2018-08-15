@@ -11,7 +11,7 @@ public class starter extends JPanel
 		frame2.setVisible(true);
 		frame = new JFrame("First Frame");
 		frame.add(new starter());
-		frame.setSize(1200,300);
+		frame.setSize(800,600);
 		frame.setVisible(true);
 	}
 	
