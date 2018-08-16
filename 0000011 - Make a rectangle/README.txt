@@ -1,4 +1,5 @@
 Lab Goal: Make a colored Rectangle
+
 CS Topics: Constructing Objects, constructor parameters, primitive type integers, calling methods
 
 API
