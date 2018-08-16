@@ -27,6 +27,10 @@ public class Renamer
 	//number is positive
 	private static int convertToBase10(int num)
 	{
+		if(num==0)
+		{
+			return 0;
+		}
 		//array of digits in reverse order
 		ArrayList<Integer> digits = new ArrayList<Integer>();
 		while(num > 0)
@@ -43,6 +47,12 @@ public class Renamer
 	//conversion capped to numbers less than 2^8
 	private static String convertToBinary(int num)
 	{
+		
+		if(num==0)
+		{
+			return "0";
+		}
+		
 		ArrayList<Integer> digits = new ArrayList<Integer>();
 		int c = 0;
 		//"shopping cart" method
@@ -84,34 +94,36 @@ public class Renamer
 		return nums;
 	}
 	
-	private static void checkLetters(File file, String id, int start, int end)
+	private static void rename(File file, String id, int start, int end)
 	{
 		File[] ACD = file.listFiles();
         for (int i = 0; i < ACD.length; i++)
         {
             if (ACD[i].isDirectory() && !ACD[i].isHidden() && !ACD[i].getName().equals("File Name Manager"))
             {
+				String extra = "";
 				int num=0;
 				File myfile = new File(file.getPath() + "\\" + ACD[i].getName());
 				String alp = "abcdefghijklmnopqrstuvwxyz";
 				String[] alpha = alp.split("");
 				
-				boolean extra=true;
+				boolean isExtraLab=true;
 				for(int j=0;j<alpha.length;j++)
 				{
 					if(ACD[i].getName().indexOf(alpha[j]) < ACD[i].getName().indexOf(" ") && ACD[i].getName().indexOf(alpha[j]) != -1)
 					{	
 						num =  Integer.valueOf(ACD[i].getName().substring(0,ACD[i].getName().indexOf(alpha[j])));
+						extra =  ACD[i].getName().substring(ACD[i].getName().indexOf(alpha[j]),ACD[i].getName().indexOf(alpha[j])+1);
 						break;
 					}
 					
 					if(j==alpha.length-1)
 					{
-						extra=false;
+						isExtraLab=false;
 					}
 				}
 				
-				if(!extra)
+				if(!isExtraLab)
 				{
 					num =  Integer.valueOf(ACD[i].getName().substring(0,ACD[i].getName().indexOf(" ")));
 				}
@@ -119,14 +131,15 @@ public class Renamer
 				switch(id){
 					case "sfo":
 						if(isBetween(num, start, end))
-							num-=32;
-						myfile.renameTo(new File(file.getPath() + "\\" + num + ACD[i].getName().substring(ACD[i].getName().indexOf(" "))));
+							num++;
+						myfile.renameTo(new File(file.getPath() + "\\" + num + extra + ACD[i].getName().substring
+						(ACD[i].getName().indexOf(" "))));
 						break;
 					case "b10":
-						myfile.renameTo(new File(file.getPath() + "\\" + convertToBase10(num) + ACD[i].getName().substring(ACD[i].getName().indexOf(" "))));
+						myfile.renameTo(new File(file.getPath() + "\\" + convertToBase10(num) + extra + ACD[i].getName().substring(ACD[i].getName().indexOf(" "))));
 						break;
 					case "bin":
-						myfile.renameTo(new File(file.getPath() + "\\" + convertToBinary(num) + ACD[i].getName().substring(ACD[i].getName().indexOf(" "))));
+						myfile.renameTo(new File(file.getPath() + "\\" + convertToBinary(num) + extra + ACD[i].getName().substring(ACD[i].getName().indexOf(" "))));
 						break;
 					default:
 						System.out.print("Uh oh");
