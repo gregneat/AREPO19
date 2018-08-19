@@ -1,5 +1,8 @@
-Lab Goal: Select Window size
-CS Topics: Constructing Objects, constructor prameters, console input, console output, calling methods
+Lab Goal: Move a Rectangle across screen w no Click. Select the speed
+from user input.
+
+CS Topics: user keyboard input, using methods, loops
 
 API
-EasyReader: https://courses.cs.washington.edu/courses/cse326/05au/projects/proj3/easyreader_doc.htm
+http://horstmann.com/sjsu/graphics/api/index.html
+https://courses.cs.washington.edu/courses/cse326/05au/projects/proj3/easyreader_doc.htm
