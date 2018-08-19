@@ -1,5 +1,7 @@
-Lab Goal: Translate a Rectangle with key input
-CS Topics: using methods, instants (global) variables
+Lab Goal: Translate a Rectangle to the left with the "a" key input
+and to the right with the "d" key input.
+
+CS Topics: using methods, instants (global) variables, if statements
 
 API
 http://horstmann.com/sjsu/graphics/api/index.html

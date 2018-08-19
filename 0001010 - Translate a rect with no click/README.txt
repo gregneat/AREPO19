@@ -5,4 +5,7 @@ CS Topics: using methods, loops
 
 
 API
+
 http://horstmann.com/sjsu/graphics/api/index.html
+
+public static void pause(int seconds);  (Canvas method)
