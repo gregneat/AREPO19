@@ -8,17 +8,17 @@ public class Renamer
 	//precondition: files are numbered in base 10
 	public static void shiftFileOrder(File file, int start, int end)
 	{
-        checkLetters(file,"sfo", start, end);	
+        rename(file,"sfo", start, end);	
 	}
 	//precondition: files are numbered in binary
 	public static void renameFilesInBase10(File file)
 	{
-		checkLetters(file,"b10",0,0);
+		rename(file,"b10",0,0);
 	}
 	//precondition: files are numbered in base 10
 	public static void renameFilesInBinary(File file)
 	{
-		checkLetters(file,"bin",0,0);
+		rename(file,"bin",0,0);
 	}
 	private static boolean isBetween(int num, int low, int high)
 	{
