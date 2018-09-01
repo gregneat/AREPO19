@@ -1,7 +1,0 @@
-{
-    "cmd": ["cmd", "/c", "del", "${file/\\.cs/\\.exe/}", "2>NUL", "&&", "csc", "/nologo", "/out:${file/\\.cs/\\.exe/}", "$file"],
-    "file_regex": "^(...*?)[(]([0-9]*),([0-9]*)[)]",
-    "variants": [
-        { "name": "Run", "cmd": ["cmd", "/c", "start", "cmd", "/c", "${file/\\.cs/\\.exe/}"] }
-    ],
-}
