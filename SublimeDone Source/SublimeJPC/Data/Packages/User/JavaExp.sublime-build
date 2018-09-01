@@ -1,0 +1,13 @@
+{
+	"shell_cmd": "javac *.java",
+	"file_regex": "^(...*?):([0-9]*):?([0-9]*)",
+	"selector": "source.java",
+	
+	"variants":
+	[
+		{
+			"name": "Java Run",
+			"shell_cmd": "java -cp ; starter",
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"jdk_version":
+	{
+		"JDK1.8.0u51":
+		{
+			"path": "C:\\Program Files (x86)\\Java\\jdk1.8.0_51\\bin",
+			"update": "51",
+			"version": "1.8.0"
+		},
+		"use": ""
+	},
+	"message_id": 20,
+	"project_data":
+	{
+	}
+}

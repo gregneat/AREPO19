@@ -1,0 +1,29 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"Anaconda",
+		"AutoPEP8",
+		"C# Compile & Run",
+		"C++ Completions",
+		"ColorPick",
+		"ColorPicker",
+		"Djaneiro",
+		"Function Name Display",
+		"GitGutter",
+		"HexViewer",
+		"JavaIME",
+		"Javatar",
+		"MarkdownEditing",
+		"Package Control",
+		"requirementstxt",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeREPL"
+	]
+}

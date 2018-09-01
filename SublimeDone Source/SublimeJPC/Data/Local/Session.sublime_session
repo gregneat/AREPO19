@@ -1,0 +1,974 @@
+{
+	"folder_history":
+	[
+		"/G/Computer Programming/WORKING ON/completed/Python/26. Waldo"
+	],
+	"last_version": 3143,
+	"last_window_id": 9,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 710.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"get",
+						"getY\tfunction"
+					],
+					[
+						"color",
+						"color_rgb\tfunction"
+					],
+					[
+						"g",
+						"getX\tfunction"
+					],
+					[
+						"F",
+						"False\tinstance"
+					],
+					[
+						"mo",
+						"move\tfunction"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C# Compile & Run/CSharpSingleFileBuild.sublime-build",
+							""
+						],
+						[
+							"Packages/C# Compile & Run/CSharpSingleFileBuild.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/PyhtonRepl.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/C# Compile & Run/CSharpSingleFileBuild.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+							""
+						],
+						[
+							"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/C# hopefully.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C# hopefully.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/User/C# hopefully.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/C++ Build and Run.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C++ Build and Run.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/User/C++ Build and Run.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/MinGW-w64.sublime-build",
+							""
+						],
+						[
+							"Packages/User/MinGW-w64.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/User/MinGW-w64.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 490.0,
+				"last_filter": "remo",
+				"selected_items":
+				[
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"packa",
+						"Package Control: List Packages"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"packag",
+						"Install Package Control"
+					],
+					[
+						"",
+						"Bookmarks: Clear All"
+					]
+				],
+				"width": 565.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/F/Computer Programming/Working On/0000010 Make Color/starter.java",
+				"/F/Computer Programming/Working On/0000010 Make Color/pkg/NFrame.java",
+				"/F/Computer Programming/Working On/0000001 Make Window/starter.java",
+				"/F/Computer Programming/9th grade/Sublime/SublimeExp PythonC++/Data/Packages/User/JavaExp.sublime-build",
+				"/F/Computer Programming/Working On/Java compile sublime/JavaC Expirement.sublime-build.sublime-build",
+				"/E/Computer Programming/Working On/0000001 Make Window/Java - Copy/JavaC - Copy.json",
+				"/E/Computer Programming/Working On/0000001 Make Window/starter.java",
+				"/E/Computer Programming/9th grade/Sublime/SublimeExp PythonC++/Data/Packages/User/Java Exp.sublime-build",
+				"/E/Computer Programming/Working On/0000001 Make Window/R.BAT",
+				"/E/Computer Programming/Sublime/SublimeExp PythonC++/Data/Packages/User/C# hopefully.sublime-build",
+				"/E/Computer Programming/WORKING ON/completed/Unity/Unity Except for Labs/Assets/10. Collisions/lab10move.cs",
+				"/E/Computer Programming/Sublime/SublimeExp PythonC++/Data/Packages/OmniSharp/Default.sublime-keymap",
+				"/E/Computer Programming/Sublime/SublimeExp PythonC++/Data/Packages/User/Default.sublime-keymap",
+				"/E/Computer Programming/WORKING ON/completed/C++/3. Calc 3/baseCode.cpp",
+				"/E/Computer Programming/Sublime/SublimeExp PythonC++/Data/Packages/User/C++ Build and Run.sublime-build",
+				"/E/Computer Programming/WORKING ON/completed/Python/4. Input/prunt.py",
+				"/E/Computer Programming/WORKING ON/completed/Java/2. Java/Lab 5/TouchWindow.java",
+				"/C/Unity/Editor/Unity.exe",
+				"/E/Computer Programming/WORKING ON/Notes/Python/7. Keystroke/exampleKey.py",
+				"/E/Computer Programming/WORKING ON/Warm Up/Python/8. Moving Square/sample.py",
+				"/E/Computer Programming/WORKING ON/Notes/Python/7. Keystroke/Graphic5.py",
+				"/E/Computer Programming/WORKING ON/Notes/Python/7. Keystroke/sample.py",
+				"/E/Computer Programming/WORKING ON/Warm Up/Python/7. Snek/sample.py",
+				"/E/Computer Programming/WORKING ON/Warm Up/Python/7. Snek.py",
+				"/G/Computer Programming/WORKING ON/completed/C++/13. Rectangles/baseCode.cpp",
+				"/G/Computer Programming/Sublime/SublimeExp PythonC++/Data/Packages/User/C++ Build and Run.sublime-build",
+				"/G/Computer Programming/WORKING ON/completed/Java/2. Java/Lab 18/TouchWindow.java",
+				"/G/Computer Programming/WORKING ON/completed/Java/2. Java/Lab 17/TouchWindow.java",
+				"/G/Computer Programming/Sublime/SublimeExp PythonC++/Data/Packages/User/SublimeREPL.sublime-settings",
+				"/G/Computer Programming/WORKING ON/completed/Python/27. Bouncing Waldo/lab.py",
+				"/G/Computer Programming/WORKING ON/completed/C++/17. Write to File/baseCode.cpp",
+				"/G/Computer Programming/WORKING ON/completed/C++/17. Write to File/text.txt",
+				"/G/Computer Programming/Sublime/SublimeExp PythonC++/Data/Packages/Sublime Input/SublimeInput.sublime-settings",
+				"/C/Users/Andrew/AppData/Local/Temp/Rar$DRa0.732/JavaC.sublime-build",
+				"/G/Computer Programming/WORKING ON/completed/Java/2. Java/Lab 28/TouchWindow.java",
+				"/C/Users/Andrew/AppData/Local/Temp/Rar$DRa0.650/JavaC.sublime-build",
+				"/E/Computer Programming/WORKING ON/completed/Java/2. Java/Lab 11/TouchWindow.java",
+				"/E/Computer Programming/WORKING ON/completed/C++/5. FOR Loop Diagonal Lines/baseCode.cpp",
+				"/E/Computer Programming/Sublime/SublimeExp PythonC++/Data/Packages/Javatar/README.md",
+				"/E/Computer Programming/WORKING ON/completed/Java/2. Java/Lab 11/R.BAT",
+				"/E/Computer Programming/Sublime/SublimeExp PythonC++/Data/Packages/User/JavaCompile.sublime-build",
+				"/E/Computer Programming/Sublime/SublimeExp PythonC++/Data/Packages/Javatar/Javatar.sublime-settings",
+				"/E/Computer Programming/Sublime/SublimeExp PythonC++/Data/Packages/User/PyhtonRepl.sublime-build",
+				"/E/Computer Programming/Sublime/SublimeExp PythonC++/Data/Installed Packages/C++ Starting Kit.sublime-package",
+				"/E/Computer Programming/WORKING ON/completed/Java/2. Java/Lab 18/TouchWindow.java",
+				"/E/Computer Programming/WORKING ON/completed/Python/27. Bouncing Waldo/lab.py",
+				"/E/Computer Programming/SublimeExpiremental/Data/Packages/ColorPicker/ColorPicker.sublime-settings",
+				"/E/Computer Programming/WORKING ON/Notes/Python/5. For 2/notes.py",
+				"/E/Computer Programming/WORKING ON/completed/Python/26. Waldo/lab.py",
+				"/G/Computer Programming/WORKING ON/completed/Python/26. Waldo/Waldo.py",
+				"/G/Computer Programming/WORKING ON/completed/Python/26. Waldo/lab.py",
+				"/G/Computer Programming/WORKING ON/completed/Python/4. Input/prunt.py",
+				"/G/Computer Programming/SublimeExpiremental/Data/Packages/SublimeREPL/config/Python/Main.sublime-menu",
+				"/G/Computer Programming/SublimeExpiremental/Data/Packages/SublimeREPL/sublimerepl.py",
+				"/G/Computer Programming/SublimeExpiremental/Data/Packages/User/PyhtonRepl.sublime-build",
+				"/G/Computer Programming/SublimeExpiremental/Data/Packages/Anaconda/Default (Windows).sublime-keymap",
+				"/G/Computer Programming/SublimeExpiremental/Data/Packages/AutoPEP8/Default.sublime-keymap",
+				"/G/Computer Programming/SublimeExpiremental/Data/Packages/AutoPEP8/AutoPep8.sublime-settings",
+				"/G/Computer Programming/SublimeExpiremental/Data/Packages/User/AutoPep8.sublime-settings",
+				"/G/Computer Programming/SublimeExpiremental/Data/Packages/AdvancedNewFile/README.md",
+				"/E/Computer Programming/SublimeExpiremental/Data/Packages/User/Default (Windows).sublime-keymap"
+			],
+			"find":
+			{
+				"height": 40.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"NFrame Neato = new NFrame(\"i am groot\");\n\t\t",
+					";\n",
+					"1",
+					"a = 10",
+					"}",
+					"0.1",
+					"vied.id"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 40.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.SublimeLinter Messages":
+			{
+				"height": 174.0
+			},
+			"output.exec":
+			{
+				"height": 159.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/JavaExp.sublime-build",
+			"replace":
+			{
+				"height": 75.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1334.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"get",
+						"getY\tfunction"
+					],
+					[
+						"color",
+						"color_rgb\tfunction"
+					],
+					[
+						"g",
+						"getX\tfunction"
+					],
+					[
+						"F",
+						"False\tinstance"
+					],
+					[
+						"mo",
+						"move\tfunction"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/E/Computer Programming/Working On/0000001 Make Window/starter.java",
+					"settings":
+					{
+						"buffer_size": 288,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/Computer Programming/9th grade/WORKING ON/completed/Python/9. Nested For Loops/prunt.py",
+					"settings":
+					{
+						"buffer_size": 157,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "Packages/User/JavaExp.sublime-build",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C# Compile & Run/CSharpSingleFileBuild.sublime-build",
+							""
+						],
+						[
+							"Packages/C# Compile & Run/CSharpSingleFileBuild.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/PyhtonRepl.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/C# Compile & Run/CSharpSingleFileBuild.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+							""
+						],
+						[
+							"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/C# hopefully.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C# hopefully.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/User/C# hopefully.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/C++ Build and Run.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C++ Build and Run.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/User/C++ Build and Run.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/JavaExp.sublime-build",
+							""
+						],
+						[
+							"Packages/User/JavaExp.sublime-build",
+							"Java Run"
+						]
+					],
+					[
+						"Packages/User/JavaExp.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/MinGW-w64.sublime-build",
+							""
+						],
+						[
+							"Packages/User/MinGW-w64.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/User/MinGW-w64.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 490.0,
+				"last_filter": "remo",
+				"selected_items":
+				[
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"packa",
+						"Package Control: List Packages"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"packag",
+						"Install Package Control"
+					],
+					[
+						"",
+						"Bookmarks: Clear All"
+					]
+				],
+				"width": 565.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/E/Computer Programming/Working On/Sublime/SublimeDone/SublimeJPC/Data/Packages/User/PyhtonRepl.sublime-build",
+				"/F/Computer Programming/Working On/0000011 Make Rectangle/starter.java",
+				"/F/Computer Programming/Working On/0000011 Make Rectangle/pkg/NFrame.java",
+				"/F/Computer Programming/AREPO19/0000011 - Make a rectangle/base code/starter.java",
+				"/F/Computer Programming/Working On/0000010 Make Color/starter.java",
+				"/F/Computer Programming/9th grade/WORKING ON/completed/Python/28. Where's Waldo/lab.py",
+				"/F/Computer Programming/9th grade/WORKING ON/completed/C++/11. Getch/baseCode.cpp",
+				"/F/Computer Programming/Working On/Sublime/Java Finishied/READ_ME.txt",
+				"/F/Computer Programming/9th grade/WORKING ON/completed/C++/12. kbhit/baseCode.cpp",
+				"/F/Computer Programming/Working On/Sublime/Java Finishied/SublimeJPC/Data/Packages/User/Anaconda.sublime-settings",
+				"/F/Computer Programming/Working On/Sublime/Java Finishied/SublimeJPC/Data/Packages/Anaconda/Anaconda.sublime-settings",
+				"/F/Computer Programming/9th grade/Sublime/SublimeExp PythonC++/Data/Packages/User/JavaExp.sublime-build",
+				"/F/Computer Programming/Working On/Sublime/Python/Python.sublime-build",
+				"/F/Computer Programming/9th grade/WORKING ON/completed/Python/27. Bouncing Waldo/lab.py",
+				"/F/Computer Programming/Working On/Sublime/Java/JavaC.sublime-build",
+				"/F/Computer Programming/Working On/0000010 Make Color/pkg/NFrame.java",
+				"/F/Computer Programming/AREPO19/0000010 - Make a color/README.txt",
+				"/F/Computer Programming/Working On/0000010 Make Color/color.java",
+				"/F/Computer Programming/Working On/0000001 Make Window/starter.java",
+				"/F/Computer Programming/Working On/Java compile sublime/JavaC Expirement.sublime-build.sublime-build",
+				"/E/Computer Programming/Working On/0000001 Make Window/Java - Copy/JavaC - Copy.json",
+				"/E/Computer Programming/Working On/0000001 Make Window/starter.java",
+				"/E/Computer Programming/9th grade/Sublime/SublimeExp PythonC++/Data/Packages/User/Java Exp.sublime-build",
+				"/E/Computer Programming/Working On/0000001 Make Window/R.BAT",
+				"/E/Computer Programming/Sublime/SublimeExp PythonC++/Data/Packages/User/C# hopefully.sublime-build",
+				"/E/Computer Programming/WORKING ON/completed/Unity/Unity Except for Labs/Assets/10. Collisions/lab10move.cs",
+				"/E/Computer Programming/Sublime/SublimeExp PythonC++/Data/Packages/OmniSharp/Default.sublime-keymap",
+				"/E/Computer Programming/Sublime/SublimeExp PythonC++/Data/Packages/User/Default.sublime-keymap",
+				"/E/Computer Programming/WORKING ON/completed/C++/3. Calc 3/baseCode.cpp",
+				"/E/Computer Programming/Sublime/SublimeExp PythonC++/Data/Packages/User/C++ Build and Run.sublime-build",
+				"/E/Computer Programming/WORKING ON/completed/Python/4. Input/prunt.py",
+				"/E/Computer Programming/WORKING ON/completed/Java/2. Java/Lab 5/TouchWindow.java",
+				"/C/Unity/Editor/Unity.exe",
+				"/E/Computer Programming/WORKING ON/Notes/Python/7. Keystroke/exampleKey.py",
+				"/E/Computer Programming/WORKING ON/Warm Up/Python/8. Moving Square/sample.py",
+				"/E/Computer Programming/WORKING ON/Notes/Python/7. Keystroke/Graphic5.py",
+				"/E/Computer Programming/WORKING ON/Notes/Python/7. Keystroke/sample.py",
+				"/E/Computer Programming/WORKING ON/Warm Up/Python/7. Snek/sample.py",
+				"/E/Computer Programming/WORKING ON/Warm Up/Python/7. Snek.py",
+				"/G/Computer Programming/WORKING ON/completed/C++/13. Rectangles/baseCode.cpp",
+				"/G/Computer Programming/Sublime/SublimeExp PythonC++/Data/Packages/User/C++ Build and Run.sublime-build",
+				"/G/Computer Programming/WORKING ON/completed/Java/2. Java/Lab 18/TouchWindow.java",
+				"/G/Computer Programming/WORKING ON/completed/Java/2. Java/Lab 17/TouchWindow.java",
+				"/G/Computer Programming/Sublime/SublimeExp PythonC++/Data/Packages/User/SublimeREPL.sublime-settings",
+				"/G/Computer Programming/WORKING ON/completed/Python/27. Bouncing Waldo/lab.py",
+				"/G/Computer Programming/WORKING ON/completed/C++/17. Write to File/baseCode.cpp",
+				"/G/Computer Programming/WORKING ON/completed/C++/17. Write to File/text.txt",
+				"/G/Computer Programming/Sublime/SublimeExp PythonC++/Data/Packages/Sublime Input/SublimeInput.sublime-settings",
+				"/C/Users/Andrew/AppData/Local/Temp/Rar$DRa0.732/JavaC.sublime-build",
+				"/G/Computer Programming/WORKING ON/completed/Java/2. Java/Lab 28/TouchWindow.java",
+				"/C/Users/Andrew/AppData/Local/Temp/Rar$DRa0.650/JavaC.sublime-build",
+				"/E/Computer Programming/WORKING ON/completed/Java/2. Java/Lab 11/TouchWindow.java",
+				"/E/Computer Programming/WORKING ON/completed/C++/5. FOR Loop Diagonal Lines/baseCode.cpp",
+				"/E/Computer Programming/Sublime/SublimeExp PythonC++/Data/Packages/Javatar/README.md",
+				"/E/Computer Programming/WORKING ON/completed/Java/2. Java/Lab 11/R.BAT",
+				"/E/Computer Programming/Sublime/SublimeExp PythonC++/Data/Packages/User/JavaCompile.sublime-build",
+				"/E/Computer Programming/Sublime/SublimeExp PythonC++/Data/Packages/Javatar/Javatar.sublime-settings",
+				"/E/Computer Programming/Sublime/SublimeExp PythonC++/Data/Packages/User/PyhtonRepl.sublime-build",
+				"/E/Computer Programming/Sublime/SublimeExp PythonC++/Data/Installed Packages/C++ Starting Kit.sublime-package",
+				"/E/Computer Programming/WORKING ON/completed/Java/2. Java/Lab 18/TouchWindow.java",
+				"/E/Computer Programming/WORKING ON/completed/Python/27. Bouncing Waldo/lab.py",
+				"/E/Computer Programming/SublimeExpiremental/Data/Packages/ColorPicker/ColorPicker.sublime-settings",
+				"/E/Computer Programming/WORKING ON/Notes/Python/5. For 2/notes.py",
+				"/E/Computer Programming/WORKING ON/completed/Python/26. Waldo/lab.py",
+				"/G/Computer Programming/WORKING ON/completed/Python/26. Waldo/Waldo.py",
+				"/G/Computer Programming/WORKING ON/completed/Python/26. Waldo/lab.py",
+				"/G/Computer Programming/WORKING ON/completed/Python/4. Input/prunt.py",
+				"/G/Computer Programming/SublimeExpiremental/Data/Packages/SublimeREPL/config/Python/Main.sublime-menu",
+				"/G/Computer Programming/SublimeExpiremental/Data/Packages/SublimeREPL/sublimerepl.py",
+				"/G/Computer Programming/SublimeExpiremental/Data/Packages/User/PyhtonRepl.sublime-build",
+				"/G/Computer Programming/SublimeExpiremental/Data/Packages/Anaconda/Default (Windows).sublime-keymap",
+				"/G/Computer Programming/SublimeExpiremental/Data/Packages/AutoPEP8/Default.sublime-keymap",
+				"/G/Computer Programming/SublimeExpiremental/Data/Packages/AutoPEP8/AutoPep8.sublime-settings",
+				"/G/Computer Programming/SublimeExpiremental/Data/Packages/User/AutoPep8.sublime-settings",
+				"/G/Computer Programming/SublimeExpiremental/Data/Packages/AdvancedNewFile/README.md",
+				"/E/Computer Programming/SublimeExpiremental/Data/Packages/User/Default (Windows).sublime-keymap"
+			],
+			"find":
+			{
+				"height": 31.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"Rectangle(100.0D",
+					"starter",
+					"NFrame Neato = new NFrame(\"i am groot\");\n\t\t",
+					";\n",
+					"1",
+					"a = 10",
+					"}",
+					"0.1",
+					"vied.id"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/E/Computer Programming/Working On/0000001 Make Window/starter.java",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 288,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										283,
+										283
+									]
+								],
+								"settings":
+								{
+									"function_name_status_row": -1,
+									"git_gutter_is_enabled": false,
+									"syntax": "Packages/Java/Java.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/E/Computer Programming/9th grade/WORKING ON/completed/Python/9. Nested For Loops/prunt.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 157,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										154,
+										154
+									]
+								],
+								"settings":
+								{
+									"auto_complete_triggers":
+									[
+										{
+											"characters": ".",
+											"selector": "source.python - string - comment - constant.numeric"
+										},
+										{
+											"characters": ".",
+											"selector": "source.python - string - constant.numeric"
+										}
+									],
+									"function_name_status_row": 7,
+									"git_gutter_is_enabled": false,
+									"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 31.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.SublimeLinter Messages":
+			{
+				"height": 174.0
+			},
+			"output.exec":
+			{
+				"height": 159.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/JavaExp.sublime-build",
+			"position": "0,2,3,-1,-1,-1,-1,1013,55,225,1407",
+			"project": "",
+			"replace":
+			{
+				"height": 58.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
