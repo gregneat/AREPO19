@@ -9,7 +9,7 @@ public class starter implements InputControl {
 			// following line is necessary for onMouseClick, don't change
 			MouseController mC = new MouseController(Canvas.getInstance(),new starter());
 			// put your code here:
-			
+		
 			
 		}
 
