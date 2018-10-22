@@ -1,7 +1,7 @@
 import pkg.*;
 public class starter implements InputControl, InputKeyControl 
 {
-
+		
         public static void main(String args[])
         {
 			// following line is necessary for onMouseClick, don't change
@@ -22,9 +22,8 @@ public class starter implements InputControl, InputKeyControl
 		
 		public void keyPress(String s)
 		{
-			// enter code here
 			
-			
+	
 		}
 
 }
