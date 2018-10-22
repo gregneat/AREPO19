@@ -141,19 +141,34 @@ public class Canvas
     /**
      * Pauses so that the user can see the picture before it is transformed.
      */
-    public static void pause(int td)
-    {
+	 // 10/21/18 Neato's wimpy pause is replaced by Professor Dylan's
+	 // Dylan's critique:
+	 // Using nested for loops takes up memory and cannot accurately 
+	 // pause time across different machines.
+	// Also, it did not pause for td seconds as the readme suggests, 
+	// as it is not really feasible to accurately measure time with for loops.
+	 // public static void pause(int td)
+    // {
 		// changed by Neato to just be a delay.
-		for(long i=0; i <td; i++)
-		{
-			for(long j=0; j<td; j++)
-			{
-			}
-		}
+		// for(long i=0; i <td; i++)
+		// {
+			// for(long j=0; j<td; j++)
+			// {
+			// }
+		// }
         // JFrame frame = getInstance().frame;
         // if (frame == null) return;
         // JOptionPane.showMessageDialog(frame, "Click Ok to continue");
-    }
+    // }
+	
+		 public static void pause(int td) {
+	  try {
+		Thread.sleep(td);
+	  } catch(InterruptedException ex) {
+		Thread.currentThread().interrupt();
+	  }
+	}
+    
 
     /**
      * Takes a snapshot of the screen, fades it, and sets it as the background.

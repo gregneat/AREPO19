@@ -182,7 +182,17 @@ public class Emoji
 	Sushi.fill();
 	Ball.fill();	
     }
+	
+	// added by Neato 10/21/18
 
+	public boolean crash(Car v)
+	{
+		if(Ethan.contains(v.getBounds()))
+		{
+			return true;
+		}
+		return false;
+	}
    
 
    
