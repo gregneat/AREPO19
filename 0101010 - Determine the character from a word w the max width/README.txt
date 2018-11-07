@@ -1,4 +1,4 @@
-Lab Goal: Determine the maximum width of a character from a word.  The word should be selectable by the user.
+Lab Goal: Make a Text object for each character from the entered word.  Determine the character with the maximum width.  The word should be selectable by the user.
 
 
 

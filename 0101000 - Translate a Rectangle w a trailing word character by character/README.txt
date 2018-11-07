@@ -1,8 +1,8 @@
-Lab Goal: Leave a trail of a sentence, character by character following the moving rectangle.  The sentence should be selectable 
-by the user.
+Lab Goal: Leave a trail of an entered sentence character by character following
+your moving Car.  The sentence should be selectable and readable by the user.  The
+sentence should only appear one time on the Canvas.  
 
-
-CS Topics: modulo operator (%), String class, input/output, if statements, while loops, counter variables
+CS Topics: modulo operator (%), String class, input/output, if statements, while loops
 
 
 
