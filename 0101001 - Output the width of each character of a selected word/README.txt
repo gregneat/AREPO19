@@ -1,4 +1,4 @@
-Lab Goal: Output the width of each character in a word.  The word should be selectable by the user.
+Lab Goal: Make a Text object for each character from the entered word.  Output the width of each Text character.  The word should be selectable by the user.
 
 
 
