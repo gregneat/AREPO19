@@ -1,42 +1,18 @@
-Lab Goal: Make a collection of Vehicles again.  Add to
-the previous lab Cars w boats on trailers.
+Lab Goal: Make a collection of Vehicles again.  This time you will
+have the Cars from all the students in the class.  Their Car class
+should implement the Vehicle interface.  Write the method parade in 
+the Traffic class.  Study the client file (starter.java) and the code
+in the Traffic.java file to help in writing the parade method.
 
-CS Topics: inheritance, interfaces, arrays
+CS Topics: interfaces, arrays
 
 API
 
 http://horstmann.com/sjsu/graphics/api/index.html
 
-Car class:
+Vehicle interface methods:
 
-Car(double x, double y);
-Car(double x, double, y, String s);
-Car(double x, double y, String s, Color c);
-Car(double x, double y, String s, Color c, int speed);
-getX()
-getY()
-getSpeed()
-getHeight()
-getName()
-translate(int xx, int yy)
-boolean contains (double x, double y);
-changeSpeed(int s)
-
-Truck class:
-
-Truck(double x, double y);
-Truck(double x, double, y, String s);
-Truck(double x, double y, String s, Color c);
-Truck(double x, double y, String s, Color c, int speed);
-getX()
-getY()
-getSpeed()
-getHeight()
-getName()
-translate(int xx, int yy)
-boolean contains (double x, double y);
-changeSpeed(int s)
-
-CarWBoat class:
-
-CarWBoat(double x, double y, String n, Color c, int s)
+public void translate(double ex, double why);
+public int getY();
+public int getX();
+public void draw();
