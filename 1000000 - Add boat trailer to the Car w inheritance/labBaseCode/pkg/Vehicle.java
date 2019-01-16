@@ -9,4 +9,6 @@ public interface Vehicle
 	public int getY();
 	public int getX();
 	public void draw();
+	public int getWidth();
+	public int getHeight();
 }
