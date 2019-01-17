@@ -8,7 +8,7 @@ public interface Vehicle
 	public void translate(double ex, double why);
 	public int getY();
 	public int getX();
-	public void draw();
-	public int getWidth();
 	public int getHeight();
+	public int getWidth();
+	public void draw();
 }
