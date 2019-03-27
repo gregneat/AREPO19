@@ -1,0 +1,2 @@
+appletviewer TestSunRise.html
+pause
